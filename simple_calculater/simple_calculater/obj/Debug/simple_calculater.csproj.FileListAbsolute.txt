@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\simple_calculater\simple_calculater\bin\Debug\simple_calculater.exe.config
+C:\Users\Dell\source\repos\simple_calculater\simple_calculater\bin\Debug\simple_calculater.exe
+C:\Users\Dell\source\repos\simple_calculater\simple_calculater\bin\Debug\simple_calculater.pdb
+C:\Users\Dell\source\repos\simple_calculater\simple_calculater\obj\Debug\simple_calculater.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\simple_calculater\simple_calculater\obj\Debug\simple_calculater.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\simple_calculater\simple_calculater\obj\Debug\simple_calculater.exe
+C:\Users\Dell\source\repos\simple_calculater\simple_calculater\obj\Debug\simple_calculater.pdb
+C:\Users\Dell\source\repos\simple_calculater\simple_calculater\obj\Debug\simple_calculater.exe.config
