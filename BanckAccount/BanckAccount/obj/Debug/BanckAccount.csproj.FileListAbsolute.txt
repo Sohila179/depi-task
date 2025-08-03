@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\BanckAccount\BanckAccount\bin\Debug\BanckAccount.exe.config
+C:\Users\Dell\source\repos\BanckAccount\BanckAccount\bin\Debug\BanckAccount.exe
+C:\Users\Dell\source\repos\BanckAccount\BanckAccount\bin\Debug\BanckAccount.pdb
+C:\Users\Dell\source\repos\BanckAccount\BanckAccount\obj\Debug\BanckAccount.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\BanckAccount\BanckAccount\obj\Debug\BanckAccount.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\BanckAccount\BanckAccount\obj\Debug\BanckAccount.exe
+C:\Users\Dell\source\repos\BanckAccount\BanckAccount\obj\Debug\BanckAccount.pdb
+C:\Users\Dell\source\repos\BanckAccount\BanckAccount\obj\Debug\BanckAccount.exe.config
