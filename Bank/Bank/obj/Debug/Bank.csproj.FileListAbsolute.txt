@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Dell\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Dell\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Dell\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Dell\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Dell\source\repos\Bank\Bank\obj\Debug\Bank.exe.config
